@@ -58,12 +58,12 @@ const TOPICS = [
 ];
 
 const DATES = [
-  { date: "1 Jan2027", label: "Abstract Submission Opens" },
-  { date: "31 Aug 2026", label: "Abstract Submission Deadline" },
-  { date: "15 Sep 2026", label: "Notification of Acceptance" },
-  { date: "30 Sep 2026", label: "Early Bird Registration Deadline" },
-  { date: "31 Oct 2026", label: "Final Registration Deadline" },
-  { date: "16 Nov 2026", label: "Conference Day — KLCC, Kuala Lumpur" },
+  { date: "1 Jan 2027", label: "Abstract Submission Opens" },
+  { date: "31 May 2027", label: "Abstract Submission Deadline" },
+  { date: "30 Jun 2027", label: "Notification of Acceptance" },
+  { date: "31 Jul 2027", label: "Early Bird Registration Deadline" },
+  { date: "31 Aug 2027", label: "Final Registration Deadline" },
+  { date: "27 & 28 Sep 2027", label: "Conference Days — KLCC, Kuala Lumpur" },
 ];
 
 type Category = "industry" | "academic" | "student";
